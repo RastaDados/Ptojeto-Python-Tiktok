@@ -77,6 +77,7 @@ fig = px.scatter(df, x='Followers', y='Likes', hover_data=['Username'],
                      labels={'Followers': 'Seguidores', 'Likes': 'Curtidas'})
     st.plotly_chart(fig)
 ```
+
 ![Graf 1 pag 1](https://github.com/user-attachments/assets/0cc208a5-e9aa-48c3-b0fb-38e4b9bc2fdb)
 
 <br>
