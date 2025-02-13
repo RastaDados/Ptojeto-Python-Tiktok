@@ -17,7 +17,7 @@ Permitir comparações diretas entre influenciadores.
 <h3><b>Bibliotecas:</b></h3>
 <b>pandas:</b> Manipulação e análise de dados.
 
-<b>streamlit:</b> Criação do dashboard/n
+<b>streamlit:</b> Criação do dashboard
 
 <b>plotly.express:</b> Visualização de dados com gráficos.
 
